@@ -120,6 +120,9 @@ color: var(--purple-950);
   background-repeat: no-repeat;
   background-position-x:right ;
 }
+.hidden{
+  display: flex;
+}
 p{
 font-size:var(--fs-3);
 line-height: var(--lh-3);
